@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Avatar.unity
     guid: 8d20fba2598a38842b39f24c706a7255
+  - enabled: 1
+    path: Assets/PolygonNature/Scenes/DemoScene_01.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 26b7e66fd7f944048b6f83f6087a26ce, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b470273e0a085a3458eb659faf6b5de3, type: 2}
