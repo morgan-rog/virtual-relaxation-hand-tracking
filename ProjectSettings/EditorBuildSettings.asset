@@ -11,12 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nature/Nature.unity
     guid: 4b5f22f915fdb2145af0b71a6756839c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Yoga Scene.unity
     guid: d5673b812d5fa6d4abc53777e9b3fa6b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MRI Scan.unity
     guid: 096affb40484da941ae1876b01195e4f
+  - enabled: 1
+    path: Assets/Scenes/new-yoga-scene.unity
+    guid: d8e4695bba7b5be4481f07a91a71246d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 26b7e66fd7f944048b6f83f6087a26ce, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b470273e0a085a3458eb659faf6b5de3, type: 2}
